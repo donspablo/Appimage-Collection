@@ -197,4 +197,8 @@ This project is [MIT](https://raw.githubusercontent.com/donPabloNow/Appimage-Col
 <img src='./logo.svg' width='20px' />|GitHubDesktop|[Download](https://github.com/shiftkey/desktop/releases/download/release-2.5.3-linux1/GitHubDesktop-linux-2.5.3-linux1.AppImage 'Download')|[Website](https://github.com/shiftkey/desktop 'Visit author website')
 <img src='https://gitcdn.xyz/repo/AppImage/appimage.github.io/master/database/GitNote/icons/128x128/gitnote.png' width='20px' />|GitNote|No download|[Website](https://github.com/zhaopengme/gitnote 'Visit author website')
 <img src='https://gitcdn.xyz/repo/AppImage/appimage.github.io/master/database/GitQlient/icons/128x128/GitQlient.png' width='20px' />|GitQlient|No download|[Website](https://github.com/francescmm/GitQlient 'Visit author website')
+<<<<<<< HEAD
 <img src='https://gitcdn.xyz/repo/AppImage/appimage.github.io/master/database/Gitbumr/icons/scalable/gitbumr.svg' width='20px' />|Gitbumr|No download|No website
+=======
+<img src='https://gitcdn.xyz/repo/AppImage/appimage.github.io/master/database/Gitbumr/icons/scalable/gitbumr.svg' width='20px' />|Gitbumr|No download|No website
+>>>>>>> d2857cc5f425fc353ce36787a61d02a9e51961d2
